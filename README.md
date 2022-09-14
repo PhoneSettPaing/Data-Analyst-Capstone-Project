@@ -48,6 +48,7 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 ## Module 3: Exploratory Data Analysis Distribution
 <a href="https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M3ExploratoryDataAnalysis-lab.ipynb">
   <ul>
+    <li>Distribution</li>
     <li>Outliers</li>
     <li>Correlation</li>
   </ul>
