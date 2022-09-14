@@ -46,14 +46,22 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 </a>
 
 ## Module 3: Exploratory Data Analysis Distribution
-[* Outliers
-* Correlation](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
+<a href="https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M3ExploratoryDataAnalysis-lab.ipynb">
+  <ul>
+    <li>Outliers</li>
+    <li>Correlation</li>
+  </ul>
+</a>
 
 ## Module 4: Data Visualization
-[* Visualizing Distribution of Data
-* Relationship
-* Composition
-* Comparison](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M4DataVisualization-lab.ipynb)
+<a href="https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M4DataVisualization-lab.ipynb">
+  <ul>
+    <li>Visualizing Distribution of Data</li>
+    <li>Relationship</li>
+    <li>Composition</li>
+    <li>Comparison</li>
+  </ul>
+</a>
 
 ## Module 5: Dashboard Creation
 * [Dashboards](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboard)
