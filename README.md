@@ -1,4 +1,4 @@
-# IBM Data Analyst Capstone Project
+# [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
 
 ## Project Overview
 
