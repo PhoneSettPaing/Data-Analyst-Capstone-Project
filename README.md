@@ -35,11 +35,11 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 * [Exploring Data](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M1ExploreDataSet-lab.ipynb)
 
 ## Module 2: Data Wrangling
-[ * Finding Missing Values
+<a href="https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M2DataWrangling-lab.ipynb">* Finding Missing Values
 * Determine Missing Values
 * Finding Duplicates
 * Removing Duplicates
-* Normalizing Data](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M2DataWrangling-lab.ipynb)
+* Normalizing Data</a>
 
 ## Module 3: Exploratory Data Analysis Distribution
 [* Outliers
