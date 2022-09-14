@@ -35,24 +35,24 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 * [Exploring Data](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M1ExploreDataSet-lab.ipynb)
 
 ## Module 2: Data Wrangling
-* Finding Missing Values
+[* Finding Missing Values
 * Determine Missing Values
 * Finding Duplicates
 * Removing Duplicates
-* Normalizing Data
+* Normalizing Data](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M2DataWrangling-lab.ipynb)
 
 ## Module 3: Exploratory Data Analysis Distribution
-* Outliers
-* Correlation
+[* Outliers
+* Correlation](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
 
 ## Module 4: Data Visualization
-* Visualizing Distribution of Data
+[* Visualizing Distribution of Data
 * Relationship
 * Composition
-* Comparison
+* Comparison](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/M4DataVisualization-lab.ipynb)
 
 ## Module 5: Dashboard Creation
-* Dashboards
+* [Dashboards](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboard)
 
 ## Module 6: Presentation of Findings
-* Final Presentation
+* [Final Presentation](https://github.com/PhoneSettPaing/IBM-Data-Analyst-Capstone-Project/blob/main/Analysis%20of%202019%20Stack%20Overflow%20Developer%20Survey.pdf)
